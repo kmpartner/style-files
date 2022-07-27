@@ -118,6 +118,56 @@
   padding: 0 5px;
 }
 
+
+
+.body150x500Container {
+  width: 150px;
+  height: 500px;
+  border: 0.5px solid gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* margin-bottom: 1rem; */
+}
+
+.body150x500Text {
+  width: 150px;
+  height: 350px;
+  overflow: hidden;
+}
+
+.body150x500TextContents {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  /* gap: 40px; */
+  /* padding: 20px 2.5px; */
+}
+
+.body150x500TextTitle {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  padding: 60px 0px 0px 0px;
+}
+
+.body150x500TextDescription {
+  font-size: 18px;
+  /* font-weight: bold; */
+  /* padding-top: 2px; */
+  text-align: left;
+  padding: 60px 0px 0px 5px;
+}
+
+.body150x500Image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+
+
+
 @media (min-width: 480px) {
   .bodyInPostTextTitle {
     font-size: 26px;
