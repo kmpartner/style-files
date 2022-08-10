@@ -5,7 +5,7 @@
 .body300x65Container {
   width: 300px; 
   height: 65px;
-  border: 0.5px solid gray; 
+  /* border: 0.5px solid gray;  */
   display: flex; 
   justify-content: space-between;
   /* margin-bottom: 1rem; */
@@ -185,7 +185,7 @@
 .body450x90Container {
   width: 450px;
   height: 90px;
-  border: 0.5px solid gray;
+  /* border: 0.5px solid gray; */
   display: flex;
   justify-content: space-between;
 
@@ -228,7 +228,7 @@
 .body600x130Container {
   width: 600px;
   height: 130px;
-  border: 0.5px solid gray;
+  /* border: 0.5px solid gray; */
   display: flex;
   justify-content: space-between;
 
