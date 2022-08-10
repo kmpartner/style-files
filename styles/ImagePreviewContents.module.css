@@ -9,6 +9,9 @@
   display: flex; 
   justify-content: space-between;
   /* margin-bottom: 1rem; */
+
+  color: #333;
+  background-color: rgb(245, 245, 245);
 }
 
 .body300x65Text {
@@ -137,6 +140,9 @@
   flex-direction: column;
   justify-content: space-between;
   /* margin-bottom: 1rem; */
+
+  color: #333;
+  background-color: rgb(245, 245, 245);
 }
 
 .body150x500Text {
@@ -182,6 +188,9 @@
   border: 0.5px solid gray;
   display: flex;
   justify-content: space-between;
+
+  color: #333;
+  background-color: rgb(245, 245, 245);
 }
 
 .body450x90Text {
@@ -222,6 +231,9 @@
   border: 0.5px solid gray;
   display: flex;
   justify-content: space-between;
+
+  color: #333;
+  background-color: rgb(245, 245, 245);
 }
 
 .body600x130Text {
