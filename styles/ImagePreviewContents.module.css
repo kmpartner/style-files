@@ -146,7 +146,7 @@
   color: #333;
   background-color: rgb(245, 245, 245);
 
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .body150x500Text {
@@ -225,6 +225,18 @@
   width: 90px;
   height: 90px;
   object-fit: cover;
+}
+
+
+.body450x90bgContainer {
+  width: 450px;
+  height: 90px;
+  /* border: 0.5px solid gray; */
+  display: flex;
+  /* justify-content: space-between; */
+  justify-content: space-around;
+  /* color: #333; */
+  /* background-color: rgb(245, 245, 245); */
 }
 
 
