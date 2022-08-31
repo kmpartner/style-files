@@ -46,6 +46,13 @@
   object-fit: cover;
 }
 
+.body300x65bgImage {
+  width: 300px;
+  height: 65px;
+}
+
+
+
 .body300x300Container {
   width: 300px; 
   /* margin-bottom: 1rem; */
@@ -184,6 +191,11 @@
   object-fit: cover;
 }
 
+.body150x500bgImage {
+  width: 150px;
+  height: 500px;
+}
+
 
 
 .body450x90Container {
@@ -226,7 +238,6 @@
   height: 90px;
   object-fit: cover;
 }
-
 
 .body450x90bgImage {
   width: 450px;
@@ -275,6 +286,11 @@
   width: 130px;
   height: 130px;
   object-fit: cover;
+}
+
+.body600x130bgImage {
+  width: 600px;
+  height: 130px;
 }
 
 
