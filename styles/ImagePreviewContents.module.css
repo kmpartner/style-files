@@ -295,6 +295,16 @@
 
 
 
+.body300Video {
+  width: 300px;
+  max-height: 300px;
+}
+
+.videoAdPreview {
+  width: 300px;
+  max-width: 100%;
+}
+
 
 @media (min-width: 480px) {
   .bodyInPostTextTitle {
